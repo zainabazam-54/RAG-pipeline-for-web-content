@@ -1,0 +1,20 @@
+# virtual environment
+venv/
+.venv/
+
+# environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# FAISS index (optional if you want to regenerate)
+faiss_index/
+
+# OS files
+.DS_Store
+Thumbs.db
